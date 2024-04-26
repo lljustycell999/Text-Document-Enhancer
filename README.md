@@ -1,1 +1,1 @@
-# TextDocumentEnhancer
+# Text Document Enhancer
