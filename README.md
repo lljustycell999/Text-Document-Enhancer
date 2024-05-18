@@ -9,7 +9,6 @@ Update, I have a requirements.txt file all set up and it is now possible to full
 1: In the terminal, clone this GitHub repository with:
 
 git clone https://github.com/lljustycell999/Text-Document-Enhancer
-
 cd Text-Document-Enhancer
 
 2: (Optional) Use a virtual environment like venv. If you choose venv, run these terminal commands as well:
