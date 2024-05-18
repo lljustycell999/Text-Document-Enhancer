@@ -42,15 +42,15 @@ python run.py
 
 5: Add the path to the Tesseract-OCR directory to your system's PATH environment variable. You can do this by performing the following:
 
-  5a: Copy the installation path to Tesseract-OCR.
+  * 5a: Copy the installation path to Tesseract-OCR.
   
-  5b: Type in "Edit the system environment variables" in the Windows search bar.
+  * 5b: Type in "Edit the system environment variables" in the Windows search bar.
   
-  5c: Open the "Environment Variables" window.
+  * 5c: Open the "Environment Variables" window.
   
-  5d: Select the "Path" variable under "SYSTEM VARIABLES."
+  * 5d: Select the "Path" variable under "SYSTEM VARIABLES."
   
-  5e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
+  * 5e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
   
 6: Restart Visual Studio Code for the path changes to occur.
 
@@ -58,7 +58,7 @@ python run.py
   
 # Linux Installation
 
-To be announced - I am presuming the process should be as straightforward as Mac.
+To be announced - I am presuming the process should be as straightforward as MacOS.
 
 ![image](https://github.com/lljustycell999/Text-Document-Enhancer/assets/123667513/38dcfdfc-3412-4f8d-a8ef-3725abc7ec44)
 <img width="748" alt="image" src="https://github.com/lljustycell999/Text-Document-Enhancer/assets/123667513/aa05fc9a-36f2-4141-967d-1bf3229f0a33">
