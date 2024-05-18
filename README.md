@@ -2,7 +2,7 @@
 
 Welcome to the Text Document Enhancer's GitHub Repository! Right now, I have the Python code, a project documentation report, and a presentation so that viewers may understand the project's purpose, functionality, and performance. Very soon, I should be able to offer the ability to download the application like any other executable file as this project only requires two additional libraries on top of the ones used for Python, OpenCV and PyTesseract. If you have any questions or concerns about the project, you may communicate with me through this GitHub account. Also, this project is open-source, so you may add or modify any of the project code to improve its quality and/or add more core image processing features by sending pull requests. If you choose to update this project in your repository, please be aware of the license requirements before doing so. Thank you, and I hope you enjoy the application!
 
-Update, I have a requirements.txt file all set up and it is now possible to fully run the project from the terminal on MacOS.
+Update, I have a requirements.txt file all set up and it is now possible to fully run the project from the terminal on MacOS and Windows.
 
 # MacOS Installation
 
@@ -32,8 +32,30 @@ python run.py
 
 # Windows Installation
 
-To be announced - Tesseract has been a pain to deploy on Windows. Everything works except for the text extraction methods.
+1: My best bet was running this in Visual Studio Code, so install that first.
 
+2: Install the GitHub Pull Requests extension for Visual Studio Code.
+
+3: Open the command palette (The search bar in the top-center) and enter >Git: Clone. Then provide the repository URL: https://github.com/lljustycell999/Text-Document-Enhancer. You may need to log in to your GitHub account. You can then choose a folder to clone, and name it anything you like.
+
+4: Install the Windows version of Tesseract at https://github.com/UB-Mannheim/tesseract/wiki.
+
+5: Add the path to the Tesseract-OCR directory to your system's PATH environment variable. You can do this by performing the following:
+
+  5a: Copy the installation path to Tesseract-OCR.
+  
+  5b: Type in "Edit the system environment variables" in the Windows search bar.
+  
+  5c: Open the "Environment Variables" window.
+  
+  5d: Select the "Path" variable under "SYSTEM VARIABLES."
+  
+  5e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
+  
+6: Restart Visual Studio Code for the path changes to occur.
+
+7: Execute the run.py file in Visual Studio Code.
+  
 # Linux Installation
 
 To be announced - I am presuming the process should be as straightforward as Mac.
