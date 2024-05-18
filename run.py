@@ -57,7 +57,7 @@ class ProgramSelector(QMainWindow):
         # Need to initialize the parent class (QMainWindow) to show the main window
         super().__init__()
 
-        self.setWindowTitle("OpenCV with Python")
+        self.setWindowTitle("Text Document Enhancer")
 
         layout = QVBoxLayout()
         self.program_list = QListWidget()
