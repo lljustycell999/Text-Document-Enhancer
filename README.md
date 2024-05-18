@@ -7,6 +7,7 @@ Update, I have a requirements.txt file all set up and it is now possible to full
 # MacOS Installation
 
 1: In the terminal, clone this GitHub repository with:
+
 git clone https://github.com/lljustycell999/Text-Document-Enhancer
 cd Text-Document-Enhancer
 
