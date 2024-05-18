@@ -9,19 +9,25 @@ Update, I have a requirements.txt file all set up and it is now possible to full
 1: In the terminal, clone this GitHub repository with:
 
 git clone https://github.com/lljustycell999/Text-Document-Enhancer
+
 cd Text-Document-Enhancer
 
 2: (Optional) Use a virtual environment like venv. If you choose venv, run these terminal commands as well:
+
 python3 -m venv venv
+
 source venv/bin/activate
 
 3: Install the dependencies in the requirements.txt file in the terminal:
+
 pip install -r requirements.txt
 
 4: For good measure because PyTesseract has been giving me lots of trouble with the deployment process, ensure it is installed with this terminal command:
+
 brew install tesseract
 
 5: Run the project in the terminal:
+
 python run.py
 
 # Windows Installation
