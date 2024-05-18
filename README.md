@@ -55,7 +55,9 @@ python run.py
 6: Restart Visual Studio Code for the path changes to occur.
 
 7: Execute the run.py file in Visual Studio Code.
-  
+
+Note: If you have pip working on Windows, you could use Git Bash instead. You would also have to configure Git Bash to work with Python.
+
 # Linux Installation
 
 To be announced - I am presuming the process should be as straightforward as MacOS.
