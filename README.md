@@ -48,7 +48,7 @@ python run.py
   
   * 5c: Open the "Environment Variables" window.
   
-  * 5d: Select the "Path" variable under "SYSTEM VARIABLES."
+  * 5d: Select the "Path" variable under "System Variables" (NOT "User Variables").
   
   * 5e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
   
