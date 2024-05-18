@@ -36,7 +36,7 @@ python run.py
 
 2: Install the GitHub Pull Requests extension for Visual Studio Code.
 
-3: Open the command palette (The search bar in the top-center) and enter >Git: Clone. Then provide the repository URL: https://github.com/lljustycell999/Text-Document-Enhancer. You may need to log in to your GitHub account. You can then choose a folder to clone, and name it anything you like.
+3: Open the command palette (The search bar in the top-center) and enter >Git: Clone. Then provide the repository URL: https://github.com/lljustycell999/Text-Document-Enhancer. You may need to log in to your GitHub account. You can then choose a folder to clone the files over to.
 
 4: Install the Windows version of Tesseract at https://github.com/UB-Mannheim/tesseract/wiki.
 
