@@ -74,7 +74,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * cd Text-Document-Enhancer
 
-2: Use the following terminal commands to ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
+2: Use the following terminal commands to ensure that Python is installed and updated:
 
   * sudo apt update
 
