@@ -44,7 +44,7 @@ python run.py
 
   * 5a: Copy the installation path to Tesseract-OCR.
   
-  * 5b: Type in "Edit the system environment variables" in the Windows search bar.
+  * 5b: Type in "Edit the system environment variables" in the Windows search bar, then it should appear as the first search result, click on it.
   
   * 5c: Open the "Environment Variables" window.
   
