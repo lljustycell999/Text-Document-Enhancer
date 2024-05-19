@@ -50,11 +50,17 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * cd Text-Document-Enhancer
 
-5: Install the dependencies in the requirements.txt file in the terminal:
+5: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv. To activate venv, use these commands:
+
+  *  python3 -m venv venv
+  
+  *  source venv/bin/activate
+
+6: Install the dependencies in the requirements.txt file in the terminal:
 
   * pip install -r requirements.txt
 
-6: Run the project in the terminal:
+7: Run the project in the terminal:
 
   * python run.py
 
