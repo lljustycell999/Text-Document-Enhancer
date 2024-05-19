@@ -1,8 +1,8 @@
 # Text Document Enhancer
 
-Welcome to the Text Document Enhancer's GitHub Repository! Right now, I have the Python code, a project documentation report, and a presentation so that viewers may understand the project's purpose, functionality, and performance. Very soon, I should be able to offer the ability to download the application like any other executable file as this project only requires two additional libraries on top of the ones used for Python, OpenCV and PyTesseract. If you have any questions or concerns about the project, you may communicate with me through this GitHub account. Also, this project is open-source, so you may add or modify any of the project code to improve its quality and/or add more core image processing features by sending pull requests. If you choose to update this project in your repository, please be aware of the license requirements before doing so. Thank you, and I hope you enjoy the application!
+Welcome to the Text Document Enhancer's GitHub Repository! Right now, I have the Python code, a project documentation report, and a presentation so that viewers may understand the project's purpose, functionality, and performance. This project primarily encompasses two library packages, OpenCV and PyTesseract, along with several other Python libraries. If you have any questions or concerns about the project, you may communicate with me through this GitHub account. Also, this project is open-source, so you may add or modify any of the project code to improve its quality and/or add more core image processing features by sending pull requests. If you choose to update this project in your repository, please be aware of the license requirements before doing so. Thank you, and I hope you enjoy the application!
 
-Update, I have a requirements.txt file all set up and it is now possible to fully run the project from the terminal on MacOS and Windows.
+Update: I have a requirements.txt file all set, so it is now possible to fully run the project from the terminal on MacOS, Windows, and Ubuntu Linux.
 
 # MacOS Installation
 
@@ -58,7 +58,7 @@ python run.py
 
 Note: If you have pip working on Windows, you could use Git Bash instead. You would also have to configure Git Bash to work with Python.
 
-# Linux Installation
+# Ubuntu Linux Installation
 
 1: Run the following commands:
 
