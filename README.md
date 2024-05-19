@@ -12,51 +12,49 @@ git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
 cd Text-Document-Enhancer
 
-2: (Optional) Use a virtual environment like venv. If you choose venv, run these terminal commands as well:
-
-python3 -m venv venv
-
-source venv/bin/activate
-
-3: Install the dependencies in the requirements.txt file in the terminal:
+2: Install the dependencies in the requirements.txt file in the terminal:
 
 pip install -r requirements.txt
 
-4: For good measure because PyTesseract has been giving me lots of trouble with the deployment process, ensure it is installed with this terminal command:
+3: For good measure because PyTesseract has been giving me lots of trouble with the deployment process, ensure it is installed with this terminal command:
 
 brew install tesseract
 
-5: Run the project in the terminal:
+4: Run the project in the terminal:
 
 python run.py
 
 # Windows Installation
 
-1: My best bet was running this in Visual Studio Code, so install that first, then open it.
+1: Install the latest version of Python from the Windows Store
 
-2: Install the GitHub Pull Requests extension for Visual Studio Code.
+2: Install the Windows version of Tesseract at https://github.com/UB-Mannheim/tesseract/wiki.
 
-3: Open the command palette in Visual Studio Code (The search bar in the top-center) and enter >Git: Clone. Then provide the repository URL: https://github.com/lljustycell999/Text-Document-Enhancer. You may need to log in to your GitHub account. You can then choose a folder to clone the project files over to.
+3: Add the path to the Tesseract-OCR directory to your system's PATH environment variable. You can do this by performing the following:
 
-4: Install the Windows version of Tesseract at https://github.com/UB-Mannheim/tesseract/wiki.
-
-5: Add the path to the Tesseract-OCR directory to your system's PATH environment variable. You can do this by performing the following:
-
-  * 5a: Copy the installation path to Tesseract-OCR.
+  * 3a: Copy the installation path to Tesseract-OCR.
   
-  * 5b: Type in "Edit the system environment variables" in the Windows search bar. It should appear as the first search result, click on it.
+  * 3b: Type in "Edit the system environment variables" in the Windows search bar. It should appear as the first search result, click on it.
   
-  * 5c: Open the "Environment Variables" window.
+  * 3c: Open the "Environment Variables" window.
   
-  * 5d: Select the "Path" variable under "System Variables" (NOT "User Variables").
+  * 3d: Select the "Path" variable under "System Variables" (NOT "User Variables").
   
-  * 5e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
-  
-6: Restart Visual Studio Code for the path changes to occur.
+  * 3e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
 
-7: Execute the run.py file in Visual Studio Code.
+4: In the Windows Powershell, type in the commands:
 
-Note: If you have pip working on Windows, you could use Git Bash instead. You would also have to configure Git Bash to work with Python.
+git clone https://github.com/lljustycell999/Text-Document-Enhancer
+
+cd Text-Document-Enhancer
+
+5: Install the dependencies in the requirements.txt file in the terminal:
+
+pip install -r requirements.txt
+
+6: Run the project in the terminal:
+
+python run.py
 
 # Ubuntu Linux Installation
 
@@ -70,17 +68,11 @@ git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
 cd Text-Document-Enhancer
 
-2: Ensure that Python (and venv if you want a virtual environment) is installed:
+2: Ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
 
 sudo apt update
 
 sudo apt install python3 python3-venv python3-pip
-
-3: (Optional) Use a virtual environment like venv. If you choose venv, run these terminal commands as well:
-
-python3 -m venv venv
-
-source venv/bin/activate
 
 pip install --upgrade pip
 
