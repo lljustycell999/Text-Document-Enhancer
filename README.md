@@ -65,6 +65,8 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
   * sudo apt update
 
   * sudo apt install git
+   
+  * sudo apt install tesseract-ocr
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
