@@ -6,7 +6,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 # MacOS Installation
 
-1: Install the latest versions of [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/download/mac)
+1: Install the latest versions of [Python](https://www.python.org/downloads/), [Git](https://git-scm.com/download/mac), and [Homebrew](https://brew.sh/).
 
 2: In the terminal, clone this GitHub repository with:
 
