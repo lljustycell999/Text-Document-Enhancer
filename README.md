@@ -16,7 +16,7 @@ cd Text-Document-Enhancer
 
 pip install -r requirements.txt
 
-3: For good measure because PyTesseract has been giving me lots of trouble with the deployment process, ensure it is installed with this terminal command:
+3: For good measure, ensure PyTesseract has been properly installed with this terminal command:
 
 brew install tesseract
 
