@@ -26,7 +26,7 @@ python run.py
 
 # Windows Installation
 
-1: Install the latest version of Python from the Windows Store
+1: Install the latest version of Python from the Windows Store.
 
 2: Install the Windows version of Tesseract at https://github.com/UB-Mannheim/tesseract/wiki.
 
