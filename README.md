@@ -68,33 +68,33 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
    
   * sudo apt install tesseract-ocr
 
-2: In the terminal, clone this GitHub repository with the commands:
+2: Clone this GitHub repository:
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
   * cd Text-Document-Enhancer
 
-3: Use the following terminal commands to ensure that Python is installed and updated:
+3: Ensure that Python is installed and updated:
 
   * sudo apt update
 
   * sudo apt install python3 python3-venv python3-pip
 
-4: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv. To activate venv, use these terminal commands:
+4: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv:
 
   * python3 -m venv venv
   
   * source venv/bin/activate
 
-5: Just in case, update pip to its latest version using this terminal command:
+5: Just in case, update pip to its latest version:
 
   * pip install --upgrade pip
 
-6: Install the dependencies in the requirements.txt file by using this terminal command:
+6: Install the dependencies in the requirements.txt file:
 
   * pip install -r requirements.txt
 
-7: Run the project in the terminal with this command:
+7: Run the project:
 
   * python run.py
 
