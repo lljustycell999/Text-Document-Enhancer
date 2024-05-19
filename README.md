@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 brew install tesseract
 
-4: Run the project in the terminal:
+4: Run the project in the terminal with:
 
 python run.py
 
