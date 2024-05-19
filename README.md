@@ -6,21 +6,23 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 # MacOS Installation
 
-1: In the terminal, clone this GitHub repository with:
+1: Install the latest versions of [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/download/mac)
+
+2: In the terminal, clone this GitHub repository with:
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
   * cd Text-Document-Enhancer
 
-2: Install the dependencies in the requirements.txt file by entering this terminal command:
+3: Install the dependencies in the requirements.txt file by entering this terminal command:
 
   * pip install -r requirements.txt
 
-3: For good measure, ensure PyTesseract has been properly installed with this terminal command:
+4: For good measure, ensure PyTesseract has been properly installed with this terminal command:
 
   * brew install tesseract
 
-4: Run the project in the terminal with:
+5: Run the project in the terminal with:
 
   * python run.py
 
