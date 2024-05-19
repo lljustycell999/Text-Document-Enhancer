@@ -44,7 +44,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
   
   * 3e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
 
-4: In the Windows Powershell, type in the commands:
+4: In the Windows Powershell, clone this GitHub repository with the commands:
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
@@ -60,7 +60,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 # Ubuntu Linux Installation
 
-1: Run the following commands in the terminal:
+1: Run the following commands in the terminal to install Git and Tesseract:
 
   * sudo apt update
 
@@ -68,11 +68,13 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
    
   * sudo apt install tesseract-ocr
 
+2: In the terminal, clone this GitHub repository with the commands:
+
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
   * cd Text-Document-Enhancer
 
-2: Use these terminal commands to ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
+2: Use the following terminal commands to ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
 
   * sudo apt update
 
