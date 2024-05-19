@@ -80,7 +80,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * sudo apt install python3 python3-venv python3-pip
 
-4: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv. To activate venv, use these commands:
+4: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv. To activate venv, use these terminal commands:
 
   * python3 -m venv venv
   
@@ -90,11 +90,11 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * pip install --upgrade pip
 
-6: Install the dependencies in the requirements.txt file in the terminal:
+6: Install the dependencies in the requirements.txt file by using this terminal command:
 
   * pip install -r requirements.txt
 
-7: Run the project in the terminal:
+7: Run the project in the terminal with this command:
 
   * python run.py
 
