@@ -50,17 +50,11 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * cd Text-Document-Enhancer
 
-5: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv. To activate venv, use these commands:
-
-  *  python3 -m venv venv
-  
-  *  source venv/bin/activate
-
-6: Install the dependencies in the requirements.txt file in the terminal:
+5: Install the dependencies in the requirements.txt file in the terminal:
 
   * pip install -r requirements.txt
 
-7: Run the project in the terminal:
+6: Run the project in the terminal:
 
   * python run.py
 
@@ -82,13 +76,21 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * sudo apt install python3 python3-venv python3-pip
 
+3: You NEED to have a virtual environment for this project to work. For the sake of convenience with Python, I recommend venv. To activate venv, use these commands:
+
+  * python3 -m venv venv
+  
+  * source venv/bin/activate
+
+4: Just in case, update pip to its latest version using this terminal command:
+
   * pip install --upgrade pip
 
-3: Install the dependencies in the requirements.txt file in the terminal:
+5: Install the dependencies in the requirements.txt file in the terminal:
 
   * pip install -r requirements.txt
 
-4: Run the project in the terminal:
+6: Run the project in the terminal:
 
   * python run.py
 
