@@ -8,7 +8,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 1: Install the latest versions of [Python](https://www.python.org/downloads/), [Git](https://git-scm.com/download/mac), and [Homebrew](https://brew.sh/).
 
-2: In the terminal, clone this GitHub repository with:
+2: In the terminal, clone this GitHub repository with the commands:
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
@@ -18,11 +18,11 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * pip install -r requirements.txt
 
-4: For good measure, ensure PyTesseract has been properly installed with this terminal command:
+4: For good measure, ensure that PyTesseract has been properly installed with this terminal command:
 
   * brew install tesseract
 
-5: Run the project in the terminal with:
+5: Run the project in the terminal with the command:
 
   * python run.py
 
