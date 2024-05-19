@@ -12,7 +12,7 @@ git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
 cd Text-Document-Enhancer
 
-2: Install the dependencies in the requirements.txt file in the terminal:
+2: Install the dependencies in the requirements.txt file by entering this terminal command:
 
 pip install -r requirements.txt
 
