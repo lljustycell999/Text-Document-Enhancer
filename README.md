@@ -60,7 +60,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 # Ubuntu Linux Installation
 
-1: Run the following commands:
+1: Run the following commands in the terminal:
 
   * sudo apt update
 
@@ -70,7 +70,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * cd Text-Document-Enhancer
 
-2: Ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
+2: Use these terminal commands to ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
 
   * sudo apt update
 
@@ -78,11 +78,11 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * pip install --upgrade pip
 
-4: Install the dependencies in the requirements.txt file in the terminal:
+3: Install the dependencies in the requirements.txt file in the terminal:
 
   * pip install -r requirements.txt
 
-5: Run the project in the terminal:
+4: Run the project in the terminal:
 
   * python run.py
 
