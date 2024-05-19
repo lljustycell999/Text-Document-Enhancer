@@ -44,45 +44,45 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 4: In the Windows Powershell, type in the commands:
 
-git clone https://github.com/lljustycell999/Text-Document-Enhancer
+  * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
-cd Text-Document-Enhancer
+  * cd Text-Document-Enhancer
 
 5: Install the dependencies in the requirements.txt file in the terminal:
 
-pip install -r requirements.txt
+  * pip install -r requirements.txt
 
 6: Run the project in the terminal:
 
-python run.py
+  * python run.py
 
 # Ubuntu Linux Installation
 
 1: Run the following commands:
 
-sudo apt update
+  * sudo apt update
 
-sudo apt git
+  * sudo apt git
 
-git clone https://github.com/lljustycell999/Text-Document-Enhancer
+  * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
-cd Text-Document-Enhancer
+  * cd Text-Document-Enhancer
 
 2: Ensure that Python (and venv if you want to use a virtual environment) is installed and updated:
 
-sudo apt update
+  * sudo apt update
 
-sudo apt install python3 python3-venv python3-pip
+  * sudo apt install python3 python3-venv python3-pip
 
-pip install --upgrade pip
+  * pip install --upgrade pip
 
 4: Install the dependencies in the requirements.txt file in the terminal:
 
-pip install -r requirements.txt
+  * pip install -r requirements.txt
 
 5: Run the project in the terminal:
 
-python run.py
+  * python run.py
 
 ![image](https://github.com/lljustycell999/Text-Document-Enhancer/assets/123667513/38dcfdfc-3412-4f8d-a8ef-3725abc7ec44)
 <img width="748" alt="image" src="https://github.com/lljustycell999/Text-Document-Enhancer/assets/123667513/aa05fc9a-36f2-4141-967d-1bf3229f0a33">
