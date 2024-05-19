@@ -8,21 +8,21 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 1: In the terminal, clone this GitHub repository with:
 
-git clone https://github.com/lljustycell999/Text-Document-Enhancer
+  * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
-cd Text-Document-Enhancer
+  * cd Text-Document-Enhancer
 
 2: Install the dependencies in the requirements.txt file by entering this terminal command:
 
-pip install -r requirements.txt
+  * pip install -r requirements.txt
 
 3: For good measure, ensure PyTesseract has been properly installed with this terminal command:
 
-brew install tesseract
+  * brew install tesseract
 
 4: Run the project in the terminal with:
 
-python run.py
+  * python run.py
 
 # Windows Installation
 
