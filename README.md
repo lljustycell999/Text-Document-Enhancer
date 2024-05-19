@@ -28,7 +28,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
 # Windows Installation
 
-1: Install the latest version of Python from the Windows Store.
+1: Install the latest versions of [Python](https://www.python.org/downloads/) and [Git](https://git-scm.com/download/win).
 
 2: Install the Windows version of Tesseract at https://github.com/UB-Mannheim/tesseract/wiki.
 
