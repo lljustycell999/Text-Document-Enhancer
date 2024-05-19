@@ -64,7 +64,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * sudo apt update
 
-  * sudo apt git
+  * sudo apt install git
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
