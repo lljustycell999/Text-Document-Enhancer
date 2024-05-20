@@ -40,7 +40,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
   
   * 3c: Open the "Environment Variables" window.
   
-  * 3d: Select the "Path" variable under "System Variables" (NOT "User Variables").
+  * 3d: Select and click the "Path" variable under "System Variables" (NOT "User Variables").
   
   * 3e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
 
