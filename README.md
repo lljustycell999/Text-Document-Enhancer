@@ -98,6 +98,8 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * python run.py
 
+Note: You may get an error when you run the application for the first time that says "Could not load the Qt platform plugin "xcb."" If this happens, reset Linux, activate your virtual environment again, and rerun the project.
+
 ![image](https://github.com/lljustycell999/Text-Document-Enhancer/assets/123667513/38dcfdfc-3412-4f8d-a8ef-3725abc7ec44)
 <img width="748" alt="image" src="https://github.com/lljustycell999/Text-Document-Enhancer/assets/123667513/aa05fc9a-36f2-4141-967d-1bf3229f0a33">
 
