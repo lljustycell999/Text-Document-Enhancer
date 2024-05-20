@@ -44,7 +44,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
   
   * 3e: Click "New" and paste the Tesseract installation path. Press "OK" to save the changes.
 
-4: In the Windows Powershell, clone this GitHub repository with the commands:
+4: In the Windows PowerShell, clone this GitHub repository with the commands:
 
   * git clone https://github.com/lljustycell999/Text-Document-Enhancer
 
@@ -54,7 +54,7 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * pip install -r requirements.txt
 
-(WARNING: If this is your first time running this application, you may get an error that says "PACKAGES DO NOT MATCH THE HASHES FROM THE REQUIREMENTS FILE." What I did to fix this issue was reload Powershell and install the dependencies again, and then it worked.)
+(WARNING: If this is your first time running this application, you may get an error that says "PACKAGES DO NOT MATCH THE HASHES FROM THE REQUIREMENTS FILE." What I did to fix this issue was reload PowerShell and install the dependencies again, and then it worked.)
 
 6: Run the project:
 
