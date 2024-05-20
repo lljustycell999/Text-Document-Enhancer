@@ -14,15 +14,15 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 
   * cd Text-Document-Enhancer
 
-3: Install the dependencies in the requirements.txt file by entering this terminal command
+3: Install the dependencies in the requirements.txt file:
 
   * pip install -r requirements.txt
 
-4: For good measure, ensure that PyTesseract has been properly installed with this terminal command:
+4: For good measure, ensure that PyTesseract has been properly installed:
 
   * brew install tesseract
 
-5: Run the project in the terminal with the command:
+5: Run the project:
 
   * python run.py
 
