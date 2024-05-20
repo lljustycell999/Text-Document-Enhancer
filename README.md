@@ -4,6 +4,8 @@ Welcome to the Text Document Enhancer's GitHub Repository! This page has the Pyt
 
 Update: I have a requirements.txt file all set, so it is now possible to fully run the project from the terminal on MacOS, Windows, and Ubuntu Linux.
 
+WARNING FOR ALL OPERATING SYSTEMS: When installing the dependencies in the requirements.txt file, you may get errors that indicate dependency conflicts or "packages do not match the hashes from the requirements file." If this happens, rerun the terminal, and try to install the dependencies again.
+
 # MacOS Installation
 
 1: Install the latest versions of [Python](https://www.python.org/downloads/), [Git](https://git-scm.com/download/mac), and [Homebrew](https://brew.sh/).
@@ -53,8 +55,6 @@ Update: I have a requirements.txt file all set, so it is now possible to fully r
 5: Install the dependencies in the requirements.txt file:
 
   * pip install -r requirements.txt
-
-(WARNING: If this is your first time running this application, you may get an error that says "PACKAGES DO NOT MATCH THE HASHES FROM THE REQUIREMENTS FILE." What I did to fix this issue was reload PowerShell and install the dependencies again, and then it worked.)
 
 6: Run the project:
 
